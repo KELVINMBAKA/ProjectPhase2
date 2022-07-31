@@ -1,15 +1,7 @@
-#### React Router Fix
+This is my Phase 2 react project from Moringa school . The project is a web app for searching cocktails online from the cocktailsdb api.
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
+To lauch this aplication you'll need to clone the repo do an <NPM INSTALL> A and also <Install react-router-dom@6>.
 
 ```
 
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
 ```
